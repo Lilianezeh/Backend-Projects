@@ -8,13 +8,8 @@ for food in foods:
     print(food)
 
 # Try to change one of the items
+
 foods[0] = "yam"
-
-
-
-
-# ----------- 4-13 Buffet -----------
-
 foods = ("rice", "chicken", "fish", "salad", "pasta")
 
 print("The restaurant offers:")
