@@ -37,7 +37,6 @@ profile = build_profile(
 print(profile)
 
 
-
 # -------------------8-14. Cars--------------------------
 def make_car(manufacturer, model, **car_info):
     """Stores information about a car in a dictionary."""
