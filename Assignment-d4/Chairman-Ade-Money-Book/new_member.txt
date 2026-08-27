@@ -1,0 +1,12 @@
+House Number: 20
+Name: Kosi Onyia
+Phone: 09078867889
+------------------------
+House Number: 1
+Name: Steph Chinecherem
+Phone: 08098981249
+------------------------
+House Number: 4
+Name: Austin Chuks
+Phone: 08066789561
+------------------------

@@ -1,0 +1,32 @@
+[
+    {
+        "house_number": "15",
+        "amount": 5000.0,
+        "month": "July 2026"
+    },
+    {
+        "house_number": "15",
+        "amount": 5000.0,
+        "month": "August 2026"
+    },
+    {
+        "house_number": "15",
+        "amount": 5000.0,
+        "month": "September 2026"
+    },
+    {
+        "house_number": "12",
+        "amount": 5000.0,
+        "month": "August 2026"
+    },
+    {
+        "house_number": "12",
+        "amount": 5000.0,
+        "month": "September 2026"
+    },
+    {
+        "house_number": "4",
+        "amount": 5000.0,
+        "month": "August 2026"
+    }
+]
